@@ -39,7 +39,7 @@ h2 {
   background-position: center center;
   text-align: center;
   margin: 0;
-  height: 35vw;
+  height: 30vw;
 }
 
 .about {
@@ -95,4 +95,8 @@ input[type=number] {
 
 .row {
   margin-bottom: 2rem;
+}
+
+#demo {
+    background-color: #000000;
 }
